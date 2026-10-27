@@ -1,0 +1,4 @@
+Emp001,Sam,Quality Assurance,60000
+Emp002,Jenny,Full Stack Developer,80000
+Emp003,Tim,IT Support,55000
+Emp004,Jan,Operations,40000
